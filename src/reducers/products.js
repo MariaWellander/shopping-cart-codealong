@@ -9,5 +9,5 @@ const productData = [
 
 export const products = createSlice({
   name: 'products',
-  initialstate: productData
+  initialState: productData
 })
